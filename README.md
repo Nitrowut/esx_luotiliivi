@@ -6,7 +6,7 @@ Kevlar Vest script in ESX for FiveM - Luotiliivit
 - Progress Bars [STANDALONE]
 
 🌐 Requirements Download links
-Progress Bars: https://github.com/EthanPeacock/progressBars/releases/tag/1.0
+- Progress Bars: https://github.com/EthanPeacock/progressBars/releases/tag/1.0
 
 ✅ Features
 - Animations
